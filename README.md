@@ -2,6 +2,6 @@
 
 
 It consist of three projects on ML models
-A. Attrition - A supervised Learning Model
-B. Sensiment analysis on Flibkart Reviews - Senstimental Anlysis(NLP)
-C. SNS - Unsupervised learning algorithm
+A. Email Spam - NLP
+B. IRIS - Unsupervised Learning
+C. Sales_prediction - Supervised Learning
